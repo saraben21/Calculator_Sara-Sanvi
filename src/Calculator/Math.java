@@ -43,7 +43,6 @@ public class Math {
         MULTIPLY,
         MODULUS;
 
-        private OPERATOR() {
-        }
+
     }
 }
