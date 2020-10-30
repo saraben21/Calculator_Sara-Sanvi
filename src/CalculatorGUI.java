@@ -72,70 +72,67 @@ public class CalculatorGUI extends JFrame {
             this.updateCalcArea(a1Button.getText());
         });
         a2Button.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(a2Button.getText());
         });
         a3Button.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(a3Button.getText());
         });
         a4Button.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
-        });
-        a4Button.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(a4Button.getText());
         });
         a5Button.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(a5Button.getText());
         });
         a6Button.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(a6Button.getText());
         });
         a7Button.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(a7Button.getText());
         });
         a8Button.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(a8Button.getText());
         });
         a9Button.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(a9Button.getText());
         });
         a0Button.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(a0Button.getText());
         });
         button11.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(button11.getText());
         });
         button12.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(button12.getText());
         });
         button13.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(button13.getText());
         });
         button14.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(button14.getText());
         });
         xButton.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(xButton.getText());
         });
         x2Button.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(x2Button.getText());
         });
         sinButton.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(sinButton.getText());
         });
         cosButton.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(cosButton.getText());
         });
         tanButton.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(tanButton.getText());
         });
         cotButton.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(cotButton.getText());
         });
         cscButton.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(cscButton.getText());
         });
         secButton.addActionListener((e) -> {
-            this.updateCalcArea(a1Button.getText());
+            this.updateCalcArea(secButton.getText());
         });
 
 
